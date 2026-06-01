@@ -1,0 +1,18 @@
+Models output
+Decision Tree
+Mean: 4.9119466158041885
+Standard deviation: 1.0579007793189033
+
+Linear Regression:
+Mean: 4.9119466158041885
+Standard deviation: 1.0579007793189033
+
+The ouput of both  decision tree and linear regression are same due to the different environment used by the mentor as we won't mention randomness in the coding so.
+
+
+Random Fores Regressor:
+Mean: 3.096923480250687
+Standard deviation: 0.8690871865922318
+
+
+    
